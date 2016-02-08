@@ -48,3 +48,5 @@ end
 gem 'pry-rails'
 gem 'compass-rails','~> 2.0'
 gem 'bootstrap-sass'
+gem 'haml-rails'
+gem 'erb2haml'
